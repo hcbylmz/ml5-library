@@ -42,7 +42,7 @@ In an **index.html** file, copy and paste the following and open up that file in
   <body>
     <script>
       // Your code will go here
-      // open up your console - if everything loaded properly you should see 0.4.1
+      // open up your console - if everything loaded properly you should see 0.4.3
       console.log('ml5 version:', ml5.version);
     </script>
   </body>
